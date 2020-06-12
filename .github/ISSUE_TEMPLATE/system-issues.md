@@ -16,7 +16,7 @@ Please stop and read this carefully. Otherwise your issue will be left **unanswe
 * Include Lilu DEBUG log (refer to `-liludbgall liludump=60` boot arguments in Lilu's [README](https://github.com/acidanthera/Lilu/blob/master/README.md)).
 
 
-When to use issue [Acidanthera's tracker](https://github.com/acidanthera/bugtracker):
+When to use [Acidanthera's issue tracker](https://github.com/acidanthera/bugtracker):
 
 * You have new resources or patches to add but cannot make a pull request
 * You have kernel panics, crashes, hangs and believe it is not a configuration issue
