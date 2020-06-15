@@ -2,7 +2,7 @@
 name: Guide issues
 about: Only OpenCore and Lilu configurations are supported.
 title: ''
-labels: ''
+labels: 'error'
 assignees: ''
 
 ---
