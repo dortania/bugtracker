@@ -15,6 +15,9 @@ Please stop and read this carefully. Otherwise your issue will be left **unanswe
 * Include OpenCore DEBUG log (refer to `Target` in [Configuration.pdf](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) or here: [OpenCore Debugging](https://dortania.github.io/OpenCore-Desktop-Guide/troubleshooting/debug.html)).
 * Include Lilu DEBUG log (refer to `-liludbgall liludump=60` boot arguments in Lilu's [README](https://github.com/acidanthera/Lilu/blob/master/README.md)).
 
+When to use the [OCLP bug tracker](https://github.com/dortania/OpenCore-Legacy-Patcher/issues):
+
+* You are on a Mac
 
 When to use [Acidanthera's issue tracker](https://github.com/acidanthera/bugtracker):
 
