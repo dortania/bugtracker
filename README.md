@@ -14,6 +14,8 @@ Please note bug reports involving the following are not supported:
   * ie. iAtkos, Niresh, Unibeast, Multibeast or alike.
 * Bugs in Acidanthera's tools.
   * Please see  [Acidanthera's issue tracker](https://github.com/acidanthera/bugtracker) to report problems.
+* Bugs with OpenCore Legacy Patcher
+  * Bugtracker is meant for Dortania Hackintosh Guides
 
 ## When to use [Acidanthera's issue tracker](https://github.com/acidanthera/bugtracker)
 
