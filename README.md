@@ -5,6 +5,10 @@ The goal of this bugtracker is 2 things:
 * Centralise guide issues and suggestions.
 * Centralise systems issues and solutions.
 
+This bugtracker is not for OpenCore Legacy Patcher, see respective support section listed in [project's README](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/README.md).
+
+---------
+
 Please note bug reports involving the following are not supported:
 
 * Non-Acidanthera boot loaders at the moment, only OpenCore is supported.
